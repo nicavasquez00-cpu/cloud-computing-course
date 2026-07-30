@@ -81,7 +81,7 @@ cloud-computing-course/
 
 ---
 
-## 💕 Favorite Quote
+## 💕 Quote
 
 > "Learning never exhausts the mind. Every small step today builds a stronger future tomorrow." 🌷
 
