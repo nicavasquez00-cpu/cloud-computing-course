@@ -57,3 +57,14 @@ AWS is a suitable choice for the global e-commerce company because it provides a
 2. **Amazon S3** – Stores product images, files, backups, and other digital content.
 3. **Amazon RDS** – Provides managed database services for customer, product, and transaction data.
 4. **Amazon VPC** – Provides a secure virtual network for the company's cloud resources.
+
+## 5. Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS is suitable for startups because of its broad range of services, scalability, and flexible pricing options. |
+| Enterprise Organization | AWS | AWS provides a mature ecosystem, extensive services, and global infrastructure that can support different enterprise workloads. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | Google Cloud Platform | GCP is strong in artificial intelligence, machine learning, data analytics, and cloud-native technologies. |
+| Kubernetes Deployment | Google Cloud Platform | GCP is strong in Kubernetes and provides Google Kubernetes Engine (GKE) for managing containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure with Regions and Availability Zones that can support highly available and scalable applications. |
