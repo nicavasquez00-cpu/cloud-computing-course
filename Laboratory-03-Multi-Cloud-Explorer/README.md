@@ -31,3 +31,18 @@ A Linux server was launched using the KillerCoda Playground. Linux commands were
 
 ```bash
 cat /etc/os-release
+
+#### 2. CPU Information
+
+```bash
+lscpu
+
+#### 3. Memory
+
+```bash
+free -h
+
+#### 4. Disk Space
+
+```bash
+df -h
