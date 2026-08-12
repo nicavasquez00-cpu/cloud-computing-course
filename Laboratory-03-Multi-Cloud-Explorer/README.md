@@ -10,6 +10,13 @@ It includes cloud platform research, service comparisons, business recommendatio
 
 A Linux server was launched using the KillerCoda Playground. Linux commands were used to identify the operating system, CPU information, memory, and disk space.
 
+If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?
+
+Answer:
+
+If this Linux server were migrated to the cloud, it could be hosted using Amazon EC2 in AWS, Azure Virtual Machines in Microsoft Azure, or Google Compute Engine in Google Cloud. These services provide virtual machines that can run Linux operating systems such as Ubuntu. They can provide the computing resources needed to run the server and its applications.
+
+
 | Category | Information |
 |---|---|
 | Operating System | Ubuntu 24.04.4 LTS (Noble Numbat) |
@@ -31,8 +38,3 @@ A Linux server was launched using the KillerCoda Playground. Linux commands were
 
 ```bash
 cat /etc/os-release
-If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?
-
-Answer:
-
-If this Linux server were migrated to the cloud, it could be hosted using Amazon EC2 in AWS, Azure Virtual Machines in Microsoft Azure, or Google Compute Engine in Google Cloud. These services provide virtual machines that can run Linux operating systems such as Ubuntu. They can provide the computing resources needed to run the server and its applications.
