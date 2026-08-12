@@ -31,18 +31,8 @@ A Linux server was launched using the KillerCoda Playground. Linux commands were
 
 ```bash
 cat /etc/os-release
+If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?
 
-#### 2. CPU Information
+Answer:
 
-```bash
-lscpu
-
-#### 3. Memory
-
-```bash
-free -h
-
-#### 4. Disk Space
-
-```bash
-df -h
+If this Linux server were migrated to the cloud, it could be hosted using Amazon EC2 in AWS, Azure Virtual Machines in Microsoft Azure, or Google Compute Engine in Google Cloud. These services provide virtual machines that can run Linux operating systems such as Ubuntu. They can provide the computing resources needed to run the server and its applications.
